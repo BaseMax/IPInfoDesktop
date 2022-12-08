@@ -189,6 +189,8 @@ ApplicationWindow {
 
                         CircleIcon {}
 
+                        Item { width: 2; }
+
                         Text {
                             font.family: fontSystem.getContentFont.name
                             font.pixelSize: 14
@@ -211,6 +213,8 @@ ApplicationWindow {
                         Item { width: 30; }
 
                         CircleIcon {}
+
+                        Item { width: 2; }
 
                         Text {
                             font.family: fontSystem.getContentFont.name
@@ -235,6 +239,8 @@ ApplicationWindow {
 
                         CircleIcon {}
 
+                        Item { width: 2; }
+
                         Text {
                             font.family: fontSystem.getContentFont.name
                             font.pixelSize: 14
@@ -257,6 +263,8 @@ ApplicationWindow {
                         Item { width: 30; }
 
                         CircleIcon {}
+
+                        Item { width: 2; }
 
                         Text {
                             font.family: fontSystem.getContentFont.name
@@ -281,6 +289,8 @@ ApplicationWindow {
 
                         CircleIcon {}
 
+                        Item { width: 2; }
+
                         Text {
                             font.family: fontSystem.getContentFont.name
                             font.pixelSize: 14
@@ -303,6 +313,8 @@ ApplicationWindow {
                         Item { width: 30; }
 
                         CircleIcon {}
+
+                        Item { width: 2; }
 
                         Text {
                             font.family: fontSystem.getContentFont.name
@@ -327,6 +339,8 @@ ApplicationWindow {
                         Item { width: 30; }
 
                         CircleIcon {}
+
+                        Item { width: 2; }
 
                         Text {
                             font.family: fontSystem.getContentFont.name
@@ -472,6 +486,5 @@ ApplicationWindow {
                 }
             }
         }
-
     }
 }
